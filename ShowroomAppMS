@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/db_showroom
+    username: root
+    password: root
+    
+car-uri: http://localhost:4101/MicroService/car/details/
+owner-uri: http://localhost:4102/MicroService/owner/details/
