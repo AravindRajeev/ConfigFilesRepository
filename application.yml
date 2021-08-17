@@ -4,6 +4,5 @@ spring:
       ddl-auto: update
       dialect: org.hibernate.dialect.MySQL8Dialect
     show-sql: true
-sever:
-  servlet.context-path: /MicroService
+
     
