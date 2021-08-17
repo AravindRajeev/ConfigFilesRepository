@@ -3,5 +3,3 @@ spring:
     url: jdbc:mysql://localhost/db_car
     username: root
     passwor: root
-server:
-  port: 4101
