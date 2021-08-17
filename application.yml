@@ -1,4 +1,6 @@
 spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
   jpa:
     hibernate:
       ddl-auto: update
