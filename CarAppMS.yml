@@ -3,3 +3,5 @@ spring:
     url: jdbc:mysql://localhost/db_car
     username: root
     password: root
+sever:
+  servlet.context-path: /MicroService
