@@ -4,5 +4,10 @@ spring:
       ddl-auto: update
       dialect: org.hibernate.dialect.MySQL8Dialect
     show-sql: true
+  sleuth:
+    sampler:
+      percentage: 1.0
+  zipkin:
+    baseUrl: http://localhost:9400
 
     
